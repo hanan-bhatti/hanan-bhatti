@@ -399,6 +399,7 @@ current_projects = {
 <div align="center">
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](undefined) in [bitcorrupt/Blood-Bank-Management-System](https://github.com/bitcorrupt/Blood-Bank-Management-System)
 <!--END_SECTION:activity-->
 
 </div>
