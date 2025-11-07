@@ -14,7 +14,7 @@
 
 ---
 
-## 🎭 The Sarcastically Honest Bio
+## 🎭 The Honest Bio
 
 **Full Stack Engineer** | React/Next.js + FastAPI Wizard 🧙‍♂️ | Professional Bug Creator & Occasional Fixer
 
@@ -200,98 +200,10 @@ class VibeCodingSession:
 
 <div align="center">
 
-### 🎨 The AI Coding Process (Visualized)
+### 🎨 The AI Coding Process
 
-<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="successGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#38ef7d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="failGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#eb3349;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f45c43;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <rect width="800" height="400" fill="url(#bgGradient)" rx="20"/>
-  
-  <!-- Title -->
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">
-    The Infinite Loop of AI-Assisted Coding
-  </text>
-  
-  <!-- Main Circle -->
-  <circle cx="400" cy="220" r="140" fill="none" stroke="white" stroke-width="3" stroke-dasharray="10,5"/>
-  
-  <!-- Stages -->
-  <g id="stage1">
-    <circle cx="400" cy="80" r="35" fill="url(#successGradient)"/>
-    <text x="400" y="75" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">💡</text>
-    <text x="400" y="90" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">IDEA</text>
-    <text x="400" y="120" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">"This will be easy!"</text>
-  </g>
-  
-  <g id="stage2">
-    <circle cx="580" cy="150" r="35" fill="#4299e1"/>
-    <text x="580" y="145" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">🤖</text>
-    <text x="580" y="160" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">ASK AI</text>
-    <text x="630" y="155" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="start">"Claude, help!"</text>
-  </g>
-  
-  <g id="stage3">
-    <circle cx="580" cy="290" r="35" fill="#f6ad55"/>
-    <text x="580" y="285" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">📋</text>
-    <text x="580" y="300" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">COPY CODE</text>
-    <text x="630" y="295" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="start">"Looks good!"</text>
-  </g>
-  
-  <g id="stage4">
-    <circle cx="400" cy="360" r="35" fill="url(#failGradient)"/>
-    <text x="400" y="355" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">💥</text>
-    <text x="400" y="370" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">ERROR</text>
-    <text x="400" y="390" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">"Why doesn't it work?!"</text>
-  </g>
-  
-  <g id="stage5">
-    <circle cx="220" cy="290" r="35" fill="#9f7aea"/>
-    <text x="220" y="285" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">🔧</text>
-    <text x="220" y="300" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">DEBUG</text>
-    <text x="170" y="295" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="end">"3 hours later..."</text>
-  </g>
-  
-  <g id="stage6">
-    <circle cx="220" cy="150" r="35" fill="#ed8936"/>
-    <text x="220" y="145" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">🔄</text>
-    <text x="220" y="160" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">REFINE</text>
-    <text x="170" y="155" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="end">"Better prompt..."</text>
-  </g>
-  
-  <!-- Center text -->
-  <text x="400" y="215" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Repeat</text>
-  <text x="400" y="235" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Until It Works</text>
-  <text x="400" y="252" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">(or until deadline)</text>
-  
-  <!-- Arrows -->
-  <path d="M 400 115 L 400 80" stroke="white" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 545 130 L 500 100" stroke="white" stroke-width="2" fill="none"/>
-  <path d="M 600 185 L 600 255" stroke="white" stroke-width="2" fill="none"/>
-  <path d="M 545 310 L 435 340" stroke="white" stroke-width="2" fill="none"/>
-  <path d="M 365 340 L 255 310" stroke="white" stroke-width="2" fill="none"/>
-  <path d="M 200 255 L 200 185" stroke="white" stroke-width="2" fill="none"/>
-  <path d="M 255 130 L 365 100" stroke="white" stroke-width="2" fill="none"/>
-  
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-      <polygon points="0 0, 10 5, 0 10" fill="white"/>
-    </marker>
-  </defs>
-</svg>
+<img src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%20400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22a%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20style%3D%22stop-color%3A%23667eea%3Bstop-opacity%3A.8%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20style%3D%22stop-color%3A%23764ba2%3Bstop-opacity%3A.8%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20style%3D%22stop-color%3A%2311998e%3Bstop-opacity%3A1%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20style%3D%22stop-color%3A%2338ef7d%3Bstop-opacity%3A1%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22c%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20style%3D%22stop-color%3A%23eb3349%3Bstop-opacity%3A1%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20style%3D%22stop-color%3A%23f45c43%3Bstop-opacity%3A1%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22url(%23a)%22%20rx%3D%2220%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%2240%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%20%20%20%20The%20Infinite%20Loop%20of%20AI-Assisted%20Coding%20%20%3C%2Ftext%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%22220%22%20r%3D%22140%22%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-width%3D%223%22%20stroke-dasharray%3D%2210%2C5%22%2F%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%2280%22%20r%3D%2235%22%20fill%3D%22url(%23b)%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%2275%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2224%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%F0%9F%92%A1%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%2290%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2210%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-weight%3D%22bold%22%3EIDEA%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22120%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%229%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%26quot%3BThis%20will%20be%20easy!%26quot%3B%3C%2Ftext%3E%3Ccircle%20cx%3D%22580%22%20cy%3D%22150%22%20r%3D%2235%22%20fill%3D%22%234299e1%22%2F%3E%3Ctext%20x%3D%22580%22%20y%3D%22145%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2224%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%F0%9F%A4%96%3C%2Ftext%3E%3Ctext%20x%3D%22580%22%20y%3D%22160%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2210%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-weight%3D%22bold%22%3EASK%20AI%3C%2Ftext%3E%3Ctext%20x%3D%22630%22%20y%3D%22155%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%229%22%20fill%3D%22%23fff%22%3E%26quot%3BClaude%2C%20help!%26quot%3B%3C%2Ftext%3E%3Ccircle%20cx%3D%22580%22%20cy%3D%22290%22%20r%3D%2235%22%20fill%3D%22%23f6ad55%22%2F%3E%3Ctext%20x%3D%22580%22%20y%3D%22285%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2224%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%F0%9F%93%8B%3C%2Ftext%3E%3Ctext%20x%3D%22580%22%20y%3D%22300%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2210%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-weight%3D%22bold%22%3ECOPY%20CODE%3C%2Ftext%3E%3Ctext%20x%3D%22630%22%20y%3D%22295%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%229%22%20fill%3D%22%23fff%22%3E%26quot%3BLooks%20good!%26quot%3B%3C%2Ftext%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%22360%22%20r%3D%2235%22%20fill%3D%22url(%23c)%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22355%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2224%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%F0%9F%92%A5%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22370%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2210%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-weight%3D%22bold%22%3EERROR%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22390%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%229%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%26quot%3BWhy%20doesn%26apos%3Bt%20it%20work%3F!%26quot%3B%3C%2Ftext%3E%3Ccircle%20cx%3D%22220%22%20cy%3D%22290%22%20r%3D%2235%22%20fill%3D%22%239f7aea%22%2F%3E%3Ctext%20x%3D%22220%22%20y%3D%22285%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2224%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%F0%9F%94%A7%3C%2Ftext%3E%3Ctext%20x%3D%22220%22%20y%3D%22300%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2210%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-weight%3D%22bold%22%3EDEBUG%3C%2Ftext%3E%3Ctext%20x%3D%22170%22%20y%3D%22295%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%229%22%20fill%3D%22%23fff%22%20text-anchor%3D%22end%22%3E%26quot%3B3%20hours%20later...%26quot%3B%3C%2Ftext%3E%3Ccircle%20cx%3D%22220%22%20cy%3D%22150%22%20r%3D%2235%22%20fill%3D%22%23ed8936%22%2F%3E%3Ctext%20x%3D%22220%22%20y%3D%22145%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2224%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E%F0%9F%94%84%3C%2Ftext%3E%3Ctext%20x%3D%22220%22%20y%3D%22160%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2210%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-weight%3D%22bold%22%3EREFINE%3C%2Ftext%3E%3Ctext%20x%3D%22170%22%20y%3D%22155%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%229%22%20fill%3D%22%23fff%22%20text-anchor%3D%22end%22%3E%26quot%3BBetter%20prompt...%26quot%3B%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22215%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2216%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-weight%3D%22bold%22%3ERepeat%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22235%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2214%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3EUntil%20It%20Works%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22252%22%20font-family%3D%22Arial%2C%20sans-serif%22%20font-size%3D%2211%22%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%3E(or%20until%20deadline)%3C%2Ftext%3E%3Cpath%20d%3D%22M400%20115V80%22%20stroke%3D%22%23fff%22%20stroke-width%3D%222%22%20fill%3D%22none%22%20marker-end%3D%22url(%23d)%22%2F%3E%3Cpath%20d%3D%22m545%20130-45-30m100%2085v70m-55%2055-110%2030m-70%200-110-30m-55-55v-70m55-55%20110-30%22%20stroke%3D%22%23fff%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3Cdefs%3E%3Cmarker%20id%3D%22d%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%225%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22m0%200%2010%205-10%205z%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3C%2Fsvg%3E" />
+
 
 </div>
 
