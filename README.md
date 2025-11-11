@@ -401,11 +401,6 @@ current_projects = {
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](undefined) in [bitcorrupt/Blood-Bank-Management-System](https://github.com/bitcorrupt/Blood-Bank-Management-System)
 <!-- END_SECTION:activity -->
-=======
-1. ❌ Closed PR [#1](undefined) in [bitcorrupt/Blood-Bank-Management-System](https://github.com/bitcorrupt/Blood-Bank-Management-System)
-<!--END_SECTION:activity-->
->>>>>>> 91f2448951004bfa055b28267d9ea2be7cf94af7
-
 </div>
 
 ---
