@@ -399,7 +399,7 @@ current_projects = {
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/hanan-bhatti/authn/pull/14) in [hanan-bhatti/authn](https://github.com/hanan-bhatti/authn)
+1. ❌ Closed PR [#18](https://github.com/hanan-bhatti/authn/pull/18) in [hanan-bhatti/authn](https://github.com/hanan-bhatti/authn)
 <!--END_SECTION:activity-->
 1. ❌ Closed PR [#1](undefined) in [bitcorrupt/Blood-Bank-Management-System](https://github.com/bitcorrupt/Blood-Bank-Management-System)
 <!-- END_SECTION:activity -->
