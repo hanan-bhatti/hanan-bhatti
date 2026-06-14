@@ -300,7 +300,7 @@ const realityCheck = {
 
 <div align="center">
 
-[![Wakapi Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=honey_xnot&api_domain=what-time.transitflow.qzz.io&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/hanan-bhatti)
+[![Wakapi Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hannanbhatti2006@gmail.com&api_domain=wakapi-tfzfwskknsyujna4mhnveyi4.80.225.219.7.sslip.io&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+30+Days%29&layout=compact)](https://github.com/hanan-bhatti)
 
 </div>
 
