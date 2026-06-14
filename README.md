@@ -270,7 +270,7 @@ const realityCheck = {
 ║                                                              ║
 ║  AI is a power tool.                                         ║
 ║  Anyone can hold a chainsaw—                                 ║
-║  but not everyone should operate one unsupervised. 🪚       ║
+║  but not everyone should operate one unsupervised. 🪚        ║
 ║                                                              ║
 ║  TL;DR: AI makes coding accessible.                          ║
 ║        It does *not* make good engineering effortless.       ║
@@ -312,7 +312,7 @@ const realityCheck = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanan-bhatti&theme=radical&no-frame=true&row=1&column=7)](https://github.com/hanan-bhatti)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=hanan-bhatti&theme=radical&no-frame=true&row=1&column=7)](https://github.com/hanan-bhatti)
 
 </div>
 
@@ -438,7 +438,7 @@ current_projects = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanan-bhatti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanan-bhatti)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannanbhatti2006@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/hanan-bhatti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hanan-bhatti.site)
 
 </div>
 
