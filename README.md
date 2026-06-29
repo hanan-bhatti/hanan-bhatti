@@ -286,9 +286,9 @@ const realityCheck = {
 
 <div align="center">
 
-![Abdul Hannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanan-bhatti&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Abdul Hannan's GitHub Stats](https://github-readme-stats.hanan-bhatti.site/api?username=hanan-bhatti&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanan-bhatti&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.hanan-bhatti.site/api/top-langs/?username=hanan-bhatti&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanan-bhatti&theme=radical&hide_border=true)
 
@@ -300,7 +300,7 @@ const realityCheck = {
 
 <div align="center">
 
-[![Wakapi Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hannanbhatti2006@gmail.com&api_domain=wakapi-tfzfwskknsyujna4mhnveyi4.80.225.219.7.sslip.io&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/hanan-bhatti)
+[![Wakapi Week Stats](https://github-readme-stats.hanan-bhatti.site/api/wakatime?username=hannanbhatti2006@gmail.com&api_domain=wakapi-tfzfwskknsyujna4mhnveyi4.80.225.219.7.sslip.io&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/hanan-bhatti)
 
 </div>
 
