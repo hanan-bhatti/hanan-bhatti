@@ -399,7 +399,7 @@ current_projects = {
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3885](https://github.com/emmabostian/developer-portfolios/pull/3885#issuecomment-4878992760) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+1. 🎉 Merged PR [#3885](https://github.com/emmabostian/developer-portfolios/pull/3885) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
 <!--END_SECTION:activity-->
 1. ❌ Closed PR [#1](undefined) in [bitcorrupt/Blood-Bank-Management-System](https://github.com/bitcorrupt/Blood-Bank-Management-System)
 <!-- END_SECTION:activity -->
